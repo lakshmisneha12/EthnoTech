@@ -1,3 +1,4 @@
+//rotate arr with right k positions
 import java.util.*;
 
 public class RotateArr {
