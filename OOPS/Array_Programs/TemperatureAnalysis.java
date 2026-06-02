@@ -1,3 +1,4 @@
+// analyzing the temperature and display the results
 import java.util.Scanner;
 public class TemperatureAnalysis {
     public static void main(String[] args) {
